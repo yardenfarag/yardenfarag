@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Yarden</h1>
 <h3 align="center">A passionate full stack / frontend developer from Israel</h3>
 
+- 📫 Reach at **yarden.farag@gmail.com**
+
 - 🌱 I’m currently learning **Angular, .NET**
 
-- 📫 How to reach me **yarden.farag@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> https://www.linkedin.com/in/yarden-farag/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
