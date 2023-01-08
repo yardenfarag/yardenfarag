@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yarden</h1>
 <h3 align="center">A passionate full stack / frontend developer from Israel</h3>
 
-- 📫 Reach at **yarden.farag@gmail.com**
+- 📫 Reach me at **yarden.farag@gmail.com**
 
 - 🌱 I’m currently learning **Angular, .NET**
 
