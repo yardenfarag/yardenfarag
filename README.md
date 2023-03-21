@@ -3,8 +3,6 @@
 
 - 📫 Reach me at **yarden.farag@gmail.com**
 
-- 🌱 I’m currently learning **Angular, .NET**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left"> https://www.linkedin.com/in/yarden-farag/
 </p>
