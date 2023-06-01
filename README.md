@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Yarden</h1>
-<h3 align="center">A passionate full stack / frontend developer from Israel</h3>
+<h3 align="center">Full Stack Developer</h3>
+
+As a passionate Full Stack Developer I'm dedicated to creating elegant solutions that optimize processes and enhance user experiences. I thrive in collaborative environments where everyone works together towards a common goal, always eager to expand my knowledge and take on new challenges and always willing to put in the extra effort to get the job done.
+
 
 - 📫 Reach me at **yarden.farag@gmail.com**
 
